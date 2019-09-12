@@ -1,0 +1,6 @@
+name: EkaliaThrowTheJavelin
+version: 1.0.0
+api-version: 1.14
+main: fr.ekalia.minigames.throwthejavelin.ThrowTheJavelin
+author: Ekalia
+authors: [roro1506_HD]
